@@ -9,7 +9,7 @@ Your CiviCRM needs to have https://github.com/aghstrategies/com.aghstrategies.ci
 
 Your Shinken needs to have check_civicrm.php (found in civimonitor extension) script up and running in plugins directory.
 
-Just put this configuration in your Shinken configuration directory (like /etc/shinken/packs/civicrm) and apply configuration to your host as in example below. Don't forget to restart/reload Shinken.
+Just put contents of this repo in your Shinken configuration directory (like /etc/shinken/packs/civicrm) and apply configuration to your host as in example below. Don't forget to restart/reload Shinken.
 
 
 ```
